@@ -1,0 +1,74 @@
+/**1.3.3 - 2024.07.02**/
+– Updated: Compatible with WC 9.0
+
+/**1.3.2 - 2024.04.13**/
+– Updated: Compatible with WP 6.5 and WC 8.7
+– Updated: Update support class
+
+/**1.3.1 - 2023.04.12**/
+– Updated: Compatible with WC 7.5 and WP 6.2
+
+/**1.3.0 - 2023.02.01**/
+– Added: Option to automatically apply if all conditions of the coupon are matched
+– Added: Option to show available coupons on Cart/Checkout page
+– Added: Option to show all available coupons on frontend
+– Added: Design the content of the coupon on the settings page
+– Added: Shortcode to display coupon code, coupon amount,.. on the frontend
+– Updated: Removed the coupon table on the settings page
+– Updated: Change design promotions on the product page
+– Updated: Compatible with 'High-Performance order storage (COT)'
+
+/**1.2.1 - 2022.11.11**/
+- Fixed: Can not get list coupons on settings page in some cases
+
+/**1.2.0 - 2022.05.30**/
+– Updated: Compatible with WC 6.5 and WP 6.0
+– Updated: Update support class
+
+/**1.1.9 - 2022.04.20**/
+- Updated: Update support class
+- Updated: Change submenu settings to the Marketing menu
+
+/**1.1.8 - 2022.03.29**/
+- Updated: Update support class
+
+/**1.1.7 - 2022.03.22**/
+- Updated: Update support class
+
+/**1.1.6 - 2022.01.11**/
+- Updated: support class
+
+/**1.1.5 - 2021.07.31**/
+- Update: support class
+
+/**1.1.4 - 2021.06.02**/
+- Update: support class
+
+/**1.1.3 - 2020.08.12**/
+- Updated: Compatibility with WP5.5 and WC4.3
+
+/**1.1.2 - 2020.04.23**/
+- Update: support class
+
+/*1.1.1 - 2020.03.23*/
+– Update: support class
+
+/*1.1.0 - 2020.03.13*/
+- Update: Show coupon more exact
+- Update: customize the email
+
+/*1.0.5 - 2019.11.16*/
+- Update: Sanitize input data
+
+/*1.0.4 - 2019.11.16*/
+- Fixed: jQuery with WP 5.3
+
+/*1.0.3 - 2019.11.04*/
+- Fixed: Can’t click coupon
+- Added: Change date format
+
+/*1.0.1 - 2019.08.26*/
+- Fixed: Can’t apply coupon at checkout page
+
+/*1.0.0  - 2019.*/
+- Release version 1.0.0
